@@ -6,4 +6,4 @@ print("hi")
 ac=2
 print(ac)
 =======
->>>>>>> parent of a2713cd... print
+
